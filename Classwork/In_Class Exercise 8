@@ -1,0 +1,27 @@
+1. 
+Pros for Candidate A/ Cons for Candidate B-
+a) It can be seen that Candidate A is more stable as comapred to Candidate B.
+b) He will be more consistent in his working capacity since he is less expected to deviate from his mean productivity of 75 becuase of 
+lower variance
+
+Pros for Candidate B/ Cons for Candidate A-
+a) Candidate A is less robust to handle a higher workload> If occasionally a case come when he has to perform more than his daily tasks, 
+he is more likely to fail.
+b) The point above supports Candidate B's flexibility. He is more flexible for work where you have spontenous or unequal amounts of 
+workloads on different days.
+
+2.
+Pros for Candidate B/ Cons for Candidate A-
+In this case, it can be seen that even though Candidate B has more variance and has inconsistent productivity, his lowest productivity 
+is still greater than the bestr Candidate A can offer.
+
+Pros for Candidate A/ Cons for Candidate B-
+Again, the only advantage of having Candidate B is that there is no necessity of having that high productivity, and consistency is 
+preferred over productivity, and the spread of workload is even through the time frame or period of work.
+
+3.
+The forecast is more biased as a result of which our predictions are skewed to a lower value than the actual values. This can be 
+because we chose a window size greater than optimal, or number of neighbours to take into account greater than optimal in order 
+to make prediction, i.e. underfitting of data leading to higher bias in predictions.
+
+
