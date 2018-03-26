@@ -1,0 +1,9 @@
+1. The decision rule for the classification is "If X1 <7.5 then A else B".The new value will be classified as A.
+2. The size of the margin is 2 units.
+3. Observation 6,7,8,9 and 10 receives a penalty. Observation 6,7,8,9 and 10 are the support vectors.
+4. The total penalty is (0.5+0.5+3.5+2.5+4.5)/2 = 5.75 margin width. Here, 11.5 units is in the scale of x1 and margin width is 2.
+5. Yes, if we increase our margin width by 0.05 units in terms of margin width (0.1 units in scale of x1),
+   then we attain a margin width of 6. Hence we can a achieve a larger margin width. The main idea behind this is that we stil have 
+   a bandwidth of increasing the width of 0.25 units. And we have 5 support vectors. So we can increase the penalty 
+   by 0.25/5 per vector which is 0.05 units.
+6. Yes, the data is seperable and 4, 8 and 9 will be support vectors.
